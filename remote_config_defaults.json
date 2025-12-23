@@ -1,4 +1,4 @@
 {
-  "active_channels": "[\"ga4\", \"netcore\", \"appsflyer\"]",
-  "config_version": "1"
+  "active_channels": "[\"ga4\", \"appsflyer\"]",
+  "config_version": "2"
 }
