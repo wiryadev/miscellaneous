@@ -1,4 +1,4 @@
 {
-  "active_channels": "[\"ga4\", \"netcore\", \"appsflyer\"]",
-  "config_version": "3"
+  "uta_config_version": "8",
+  "uta_active_channels": "[\"ga4\", \"netcore\"]"
 }
