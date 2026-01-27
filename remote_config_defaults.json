@@ -1,4 +1,5 @@
 {
-  "uta_config_version": "8",
+  "uta_config_version": "9",
+  "uta_render_time_tracking_enabled": "false",
   "uta_active_channels": "[\"ga4\", \"netcore\"]"
 }
